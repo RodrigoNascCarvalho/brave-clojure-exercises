@@ -1,36 +1,6 @@
 # brave-clojure-exercises
 
-FIXME: description
+This repo will be used to store exercises from the free book: Clojure For The Brave and True
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar brave-clojure-exercises-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Currently, it contains the exercises for the following chapters:
+- Chapter 3
